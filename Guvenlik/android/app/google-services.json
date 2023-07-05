@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313421224378",
+    "project_id": "timelog-627bd",
+    "storage_bucket": "timelog-627bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313421224378:android:7443b80758538028c12583",
+        "android_client_info": {
+          "package_name": "com.guvenlik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADXRqpov0ppqJUKgjryCGjgAi55QwHucg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

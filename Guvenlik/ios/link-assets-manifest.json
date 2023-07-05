@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Audiowide-Regular.ttf",
+      "sha1": "4e87a6e0d70af2abceacebef51dafa79c7b6b09a"
+    },
+    {
+      "path": "assets/fonts/GloriaHallelujah-Regular.ttf",
+      "sha1": "16102074bbff292b2da685ee57d5c289b9f737aa"
+    },
+    {
+      "path": "assets/fonts/HomemadeApple-Regular.ttf",
+      "sha1": "9f9a0b93176530005e515b58a2c3a026012be82f"
+    },
+    {
+      "path": "assets/fonts/LuckiestGuy-Regular.ttf",
+      "sha1": "ae30bd7f787aeb29f21962469044e5c5c59cb268"
+    },
+    {
+      "path": "assets/fonts/Monoton-Regular.ttf",
+      "sha1": "b1b046ff80fe07daf52ef80e0346f41a5bc3f453"
+    },
+    {
+      "path": "assets/fonts/Righteous-Regular.ttf",
+      "sha1": "fccc33a3bed2658a31e3d83cdfdb9482dcec20a8"
+    },
+    {
+      "path": "assets/fonts/RockSalt-Regular.ttf",
+      "sha1": "9a9961e309eec88427a9a4cbbf2a59e9bee5a34a"
+    },
+    {
+      "path": "assets/fonts/RubikWetPaint-Regular.ttf",
+      "sha1": "f9ad93f85d66cf4e844dd8c2f8dda8c88b828246"
+    }
+  ]
+}

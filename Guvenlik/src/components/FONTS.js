@@ -1,0 +1,15 @@
+export const fonts = {
+    audiowide : 'Audiowide-Regular',
+    gloria : 'GloriaHallelujah-Regular',
+    homemadeApple : 'HomemadeApple-Regular',
+    luckiestGuy : 'LuckiestGuy-Regular',
+    monoton : 'Monoton-Regular',
+    righteous : 'Righteous-Regular',
+    rockSalt : 'RockSalt-Regular',
+    rubikWet : 'RubikWetPaint-Regular',
+    poppins_black : 'Poppins-Black',
+    poppins_semibold : 'Poppins-SemiBold',
+    poppins_thin : 'Poppins-Thin',
+    poppinsextrabold : 'Poppins-ExtraBold',
+    poppins_bold : 'Poppins-Bold',
+}
